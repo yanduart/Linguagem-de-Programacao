@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout>
+	<Files>
+		<File Name="PilhaSequencial.h" Top="No" Tabpos="1" TopLine="1">
+			<Cursor Line="9" Column="28"/>
+			<Selection Line="9" Column="1"/>
+		</File>
+		<File Name="main.c" Top="Yes" Tabpos="2" TopLine="1">
+			<Cursor Line="13" Column="22"/>
+			<Selection Line="13" Column="29"/>
+		</File>
+		<File Name="PilhaSequencial.c" Top="No" Tabpos="3" TopLine="34">
+			<Cursor Line="43" Column="18"/>
+		</File>
+	</Files>
+</Layout>

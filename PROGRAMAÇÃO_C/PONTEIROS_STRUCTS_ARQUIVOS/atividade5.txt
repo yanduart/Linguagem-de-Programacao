@@ -1,0 +1,11 @@
+Total: 2231,78
+
+nome: Yan Duarte Marques
+--> salário: 456,12
+
+nome: JoÆo de souza
+--> salário: 789,34
+
+nome: Pedro Alvez Cabral
+--> salário: 986,32
+

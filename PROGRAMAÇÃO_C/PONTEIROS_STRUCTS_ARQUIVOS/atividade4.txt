@@ -1,0 +1,32 @@
+-----Tabela dos médicos-----
+
+tempo de serviço do 1º médico em anos: 5
+especialidade do 1º médico: t
+
+tempo de serviço do 2º médico em anos: 5
+especialidade do 2º médico: t
+
+tempo de serviço do 3º médico em anos: 5
+especialidade do 3º médico: t
+
+tempo de serviço do 4º médico em anos: 5
+especialidade do 4º médico: t
+
+tempo de serviço do 5º médico em anos: 5
+especialidade do 5º médico: t
+
+tempo de serviço do 6º médico em anos: 5
+especialidade do 6º médico: t
+
+tempo de serviço do 7º médico em anos: 5
+especialidade do 7º médico: t
+
+tempo de serviço do 8º médico em anos: 5
+especialidade do 8º médico: t
+
+tempo de serviço do 9º médico em anos: 5
+especialidade do 9º médico: t
+
+tempo de serviço do 10º médico em anos: 5
+especialidade do 10º médico: t
+
